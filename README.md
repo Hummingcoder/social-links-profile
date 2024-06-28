@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://hummingcoder.github.io/social-links-profile/)
 
 ## My process
 
